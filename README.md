@@ -1,7 +1,7 @@
 # POS Cafe Software Premium
 
 <div align="center">
-  <img src="https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo1.png" alt="POS Cafe Logo" width="200" />
+  <img src="https://hstvjoslywhedvmbgxcm.supabase.co/storage/v1/object/public/qrcode//c-square-logo-.png" alt="POS Cafe Logo" width="250" />
   <h3>A comprehensive Point of Sale system designed for modern cafes and restaurants</h3>
 </div>
 
@@ -88,7 +88,7 @@ You can access the application with the following credentials:
     <tr>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" /><br>React 18</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" /><br>TypeScript</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS" /><br>Tailwind</td>
+      <td align="center"><img src="https://hstvjoslywhedvmbgxcm.supabase.co/storage/v1/object/public/qrcode//tailwind-css.svg" height="40" alt="TailwindCSS" /><br>Tailwind</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase" /><br>Supabase</td>
     </tr>
     <tr>
@@ -187,12 +187,8 @@ You can access the application with the following credentials:
 - [ ] Kitchen display system
 - [ ] Delivery management
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## ✉️ Contact
 
 For questions or support, please reach out to:  
-Email: your-email@example.com  
-GitHub: [Your GitHub Profile](https://github.com/your-username)
+Email: impritamray@gmail.com 
+GitHub: [Pritam Ray](https://github.com/pritam-ray)
