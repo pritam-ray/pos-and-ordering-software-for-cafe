@@ -1,4 +1,4 @@
-# POS Cafe Software Premium
+# POS And Food Ordering Software For Cafe And Restaurant
 
 <div align="center">
   <img src="https://hstvjoslywhedvmbgxcm.supabase.co/storage/v1/object/public/qrcode//c-square-logo-.png" alt="POS Cafe Logo" width="250" />
